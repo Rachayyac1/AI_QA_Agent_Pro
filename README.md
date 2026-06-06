@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI QA Agent Pro
 
 Features:
@@ -9,9 +8,8 @@ Features:
 - OpenAI API Integration
 - Pytest Execution
 
-Run:
+## Run
+
+```bash
 pip install -r requirements.txt
 streamlit run app/ui.py
-=======
-# AI_QA_Agent_Pro
->>>>>>> 56484a4ec04920f4f45bca6d3ff5be08f9f741d3
